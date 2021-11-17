@@ -12,7 +12,7 @@ I am friendly and sympathetic towards other people. I like to work in a team and
 
 A quote that makes things easier for me:
 
-*"Bądź dobrej myśli, bo po co być złej"* Stanisław Lem 
+*"Bądź dobrej myśli, bo po co być złej :)"* Stanisław Lem 
 <!--
 **mkoczkodaj/mkoczkodaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
