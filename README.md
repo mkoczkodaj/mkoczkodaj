@@ -14,6 +14,7 @@ I am friendly and sympathetic towards other people. I like to work in a team and
 A quote that makes things easier for me:
 
 *"Bądź dobrej myśli, bo po co być złej :)"* Stanisław Lem 
+https://github.com/mkoczkodaj/DeepFaceLab <- ciekawa sprawa
 <!--
 **mkoczkodaj/mkoczkodaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
