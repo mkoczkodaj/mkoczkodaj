@@ -1,10 +1,9 @@
 ### Hello world 😄 ###
-My name is Michał and I am currently a first-year student of Computer Science and intelligent systems at AGH.
+My name is Michał and I am currently a third-year student of Computer Science and intelligent systems at AGH.
 I am currently implementing a group project on the subject of IT tools.
 [My page](https://mkoczkodaj.github.io/)
 ### Skills & hobbies ###
-- C - beginner
-- Python - beginner
+C, C++, Java, C#, Python
 
 I am friendly and sympathetic towards other people. I like to work in a team and I am an organized person. I am also aware of my strengths and weaknesses.
 
